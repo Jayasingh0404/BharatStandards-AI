@@ -1,4 +1,4 @@
-BharatStandards-AI 
+BharatStandards-AI 🤖 
 An AI-powered platform for discovering, understanding, and working with Indian Standards.
 📌 Overview
 
